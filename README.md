@@ -7,7 +7,7 @@ Auto Installer , cPanel, Plesk, aaPanel automatic installer script along with se
 ## Documentation
 **Clone and Install Script**
 ```
-wget https://github.com/budalol/mimi/raw/autoinstaller.sh
+wget https://raw.githubusercontent.com/budalol/mimi/main/autoinstaller.sh
 chmod +x autoinstaller.sh
 ./autoinstaller.sh
 ```
